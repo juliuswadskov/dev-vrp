@@ -10,7 +10,7 @@ start med at lave en fil der hedder `keys.cfg` og paste det følgende ind i den 
 
 ```cfg
 # Steam Web API key, if you want to use Steam authentication (https://steamcommunity.com/dev/apikey)
-set steam_webApiKey ""
+set steam_webApiKey "" 
 
 # License key for your server (https://keymaster.fivem.net)
 sv_licenseKey 
